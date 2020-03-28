@@ -6,9 +6,9 @@ Smiley face shield design.
 
 ### Template
 
-![a4template](./SmileyFaceShieldCuttingTemplate_A4.png)
+![a4template](./SmileyFaceShieldCuttingTemplate_A4.jpg)
 
 ### Overall Face Shield Cutting Diagram
 
-![overallDiagram](./SmileyFaceShieldOverallDiagram.png)
+![overallDiagram](./SmileyFaceShieldOverallDiagram.jpg)
 
