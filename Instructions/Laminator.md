@@ -1,8 +1,13 @@
-# Smiley Face Shield: Instructions for Manual Soft-Creased Version:
+# Smiley Face Shield: Instructions for A3 Laminator Procedure
 
 ## Materials
 
+1. 1x A3 Acetate / PET Sheet.
+2. 
+
 ## Tools 
+
+1. Ballpoint pen.
 
 ## Instructions
 
