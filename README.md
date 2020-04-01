@@ -18,5 +18,4 @@ Smiley face shield design.
 
 ### Overall Face Shield Cutting Diagram
 
-![overallDiagram](./SmileyFaceShieldOverallDiagram.jpg)
-
+![overallDiagram](./TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHOme/SmileyFaceShieldOverallDiagram.jpg)
