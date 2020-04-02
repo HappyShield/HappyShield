@@ -1,6 +1,6 @@
 # HappyShield
 
-Smiley face shield design. 
+HappyShield design. 
 
 ## Materials 
 
