@@ -1,4 +1,4 @@
-# Smiley Face Shield
+# HappyShield
 
 Smiley face shield design. 
 
